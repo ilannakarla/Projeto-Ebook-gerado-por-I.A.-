@@ -1,4 +1,4 @@
-![CAPA] (/capaebook.png) 
+![CAPA](/capaebook.png) 
 
 # Projeto-Ebook-gerado-por-I.A.s-
 Desafio do Curso CAIXA – IA Generativa com Microsoft Copilot // na plataforma [DIO](https://dio.me)
